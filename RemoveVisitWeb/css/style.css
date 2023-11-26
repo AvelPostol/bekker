@@ -1,0 +1,15 @@
+.remove-btn-visit{
+    height: 100%;
+    margin: 0px 20px;
+}
+
+#call_feedback_ooo{
+    border-radius: 4px;
+    min-width: 300px;
+}
+#call_feedback_ooo .popup-window-buttons{
+    padding: 10px 0 10px;
+}
+#call_feedback_ooo h3{
+    text-align: center;
+}
